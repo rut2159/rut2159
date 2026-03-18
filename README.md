@@ -5,7 +5,8 @@
 
 # 👋 rut | Software Developer
 
-[📫 Email Me](mailto:rut4269@gmail.com) • [🔗 GitHub](https://github.com/ruti2159) • [📞 053-413-4269](tel:0534134269)
+[📫 Email Me](mailto:ruti4269@gmail.com) • [🔗 GitHub](https://github.com/rut2159) • [📞 053-413-4269](tel:0534134269)
+
 
 ---
 
