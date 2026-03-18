@@ -57,12 +57,7 @@ A dedicated Full-Stack Developer with a passion for building scalable web applic
 
 ---
 
-### 🤖 Machine & Deep Learning
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
----
 
 
 ### 🔹 Admin System Developer (2023–2024)
@@ -94,15 +89,7 @@ A dedicated Full-Stack Developer with a passion for building scalable web applic
 - English – Fluent
 
 ---
-## ⭐ Featured Projects
 
-🔹 Full-Stack Web Application  
-🔗 https://github.com/rut2159/PROJECT-NAME
-
-🔹 React Application  
-🔗 https://github.com/rut2159/PROJECT-NAME
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rut2159&show_icons=true&theme=tokyonight)
 ## 🔥 Coding Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rut2159&theme=tokyonight)
