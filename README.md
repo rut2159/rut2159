@@ -3,7 +3,7 @@
 <!--   <img src="https://github.com/GilaGlazer/GilaGlazer/blob/main/gila_glazer_animated.gif?raw=true" alt="Gila Glazer - Full Stack & AI Developer" />
 </p> -->
 
-# 👋 rut | Software Developer
+# 👋 Ruth | Software Developer
 
 [📫 Email Me](mailto:ruti4269@gmail.com) • [🔗 GitHub](https://github.com/rut2159) • [📞 053-413-4269](tel:0534134269)
 
